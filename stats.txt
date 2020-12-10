@@ -1,0 +1,74 @@
+Approximately 6 days of scraping:
+124306 articles scraped.
+
+safe_cleanup("simple_wiki_data.txt")                                    
+33048 duplicate lines removed in 0.577913761138916 seconds.
+308 isolated articles removed in 0.4763336181640625 seconds.
+37 titles corrected in 0.9247446060180664 seconds.
+4 isolated articles removed in 0.3828308582305908 seconds.
+1 titles corrected in 0.8751914501190186 seconds.
+0 isolated articles removed in 0.36266422271728516 seconds.
+0 titles corrected in 0.9236412048339844 seconds.
+Fixed point reached.
+
+After cleanup:
+90946 articles remaining.
+177285 total aritcles on Simple Wikipedia (as of 12/4/2020)
+51.2993%
+
+People:
+5684 total
+204 not connected to Jesus
+3.5890%
+
+Places:
+10544 total
+20 not connected to Jesus
+0.1897%
+
+Wildlife:
+2368 total
+3 not connected to Jesus
+0.1267%
+
+All Articles:
+90531 total (415 missing?)
+2597 not connected to Jesus
+2.8686%
+3.3992200748793655 average clicks to Jesus
+
+
+
+--Old Stats--
+Approximately 3 days of scraping:
+124186 articles scraped.
+
+remove_duplicates("simple_wiki_data.txt")
+52244 lines removed in 0.5936293601989746 seconds.
+
+remove_isolated_articles("simple_wiki_data.txt")
+672 lines removed in 0.29044532775878906 seconds.
+
+After cleanup:
+71270 articles remaining.
+
+People:
+4998 total
+243 not connected to Jesus
+4.8619%
+
+Places:
+9346 total
+28 not connected to Jesus
+0.2996%
+
+Wildlife:
+2098 total
+6 not connected to Jesus
+0.2860%
+
+All Articles:
+79982 total
+3319 not connected to Jesus
+4.1497%
+4.463787523713871 average clicks to Jesus
