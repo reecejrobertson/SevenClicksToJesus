@@ -11,6 +11,8 @@ After answering this question, I began to further explore my data. In the collec
 
 In addition, I tested other articles in an attempt to determine which article can be considered the best “center” of Wikipedia, that meaning the article with the smallest average number of clicks to be access from anywhere on Wikipedia. I found, for example, that the United States is a better center of Wikipedia than Jesus. I would have liked to have exhaustively checked every article in my graph, but that proved to be too computationally expensive to be feasible.
 
+After completing this project, I have discovered more questions over which to ponder and investigate. I wonder which category of articles has a shorter average path to Jesus, and I wonder still which article is the best center of Wikipedia. I invite users to join me in this pondering and investigation. Consider which articles are well connected, these represent the items of knowledge that our culture considers important. Consider the connections between articles, these represent the neural connections of humanity’s mind. Consider how your mind agrees with this “brain of humanity,” and consider where you differ. Which connections would you add, and which would you change? On Wikipedia itself we find a fitting quote from Denis Diderot, one of the editors of the first encyclopedia. He stated, “What is this world? A complex whole, subject to endless revolutions” ([Diderot](https://en.wikiquote.org/wiki/Denis_Diderot)). My project has helped us glimpse this complex whole. My hope is that those who encounter it will be inspired to participate in the comprehending of this whole, and in its endless revolutions.
+
 ## Roadmap
 I do not intend to make any changes to this project.
 
